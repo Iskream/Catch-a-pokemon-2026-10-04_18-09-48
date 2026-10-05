@@ -16,7 +16,7 @@ Link para explicação detalhada em vídeo: https://youtu.be/zh34ohwXnug?si=EZg3
     Mapa : https://github.com/muriloboratto/lowPolySurvival (2022.3.52f1)
   </li>
 </ol>
-<ol>
+<ol=2>
   <li>
     Scripts (mais informações na pasta vs):
     <br>
@@ -29,7 +29,7 @@ Link para explicação detalhada em vídeo: https://youtu.be/zh34ohwXnug?si=EZg3
     "musica" que é o script que permite que usando os objetos como referência, quando o player colidir com eles, cada pokemon emita um som diferente.
   </li>
 </ol>
-<ol>
+<ol=3>
   <li>
     Musica de fundo: é o bgm de pallet. Caso queira remover, procure na hierarquia e abaixe o volume. 
   </li>
