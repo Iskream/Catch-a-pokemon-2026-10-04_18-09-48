@@ -6,7 +6,7 @@ Olá, Os alunos de jogos digitais, Brenda Santos Pinheiro e Thiago Lopes da UNEB
 Link para explicação detalhada em vídeo: https://youtu.be/zh34ohwXnug?si=EZg3o8oqLXy3DJgg
 <img width="1382" height="700" alt="image" src="https://github.com/user-attachments/assets/97319597-380f-44c3-a0fb-c2aa77e28603" />
 <ol>
-  <li>
+  <li=2>
     Assets usados:
     <br>
     Pokebola: https://sketchfab.com/3d-models/pokebola-a2b0e3ca5c9346eca5e9ce000245732e
