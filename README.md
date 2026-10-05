@@ -5,6 +5,8 @@ Olá, Os alunos de jogos digitais, Brenda Santos Pinheiro e Thiago Lopes da UNEB
 <br>
 Link para explicação detalhada em vídeo: https://youtu.be/zh34ohwXnug?si=EZg3o8oqLXy3DJgg
 <img width="1382" height="700" alt="image" src="https://github.com/user-attachments/assets/97319597-380f-44c3-a0fb-c2aa77e28603" />
+<br>
+Resumo: A pokebola deve coletar todos os pokemons no mapa para ganhar o jogo!
 <ol>
   <li=2>
     Assets usados:
